@@ -1,1 +1,3 @@
 # K-means-Clustering
+
+## There is a big mall in the specific city that contains information of clients who subscribed to the membership card. So the mall has purchase history of each of his client member. They have a spending score(1-100) of each client based on several criteria. If a client has a spending score closer to 1 then that means he spends less. Similarly if a client has a spending score closer to 100 then that means he spends more. Now the mall wants to segment their clients into different groups based on the two metrics(Annual income and Spending score), by using clustering method we need to divide them into different groups. 
